@@ -4,4 +4,4 @@ pkg install git<br/>
 git clone git clone https://github.com/0xcoder0/NR<br/>
 cd NR<br/>
 ls<br/>
-python 3pLe-N.py<br/>
+python Devil.py<br/>
